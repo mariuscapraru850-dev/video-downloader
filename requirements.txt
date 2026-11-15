@@ -1,3 +1,5 @@
 flask
 requests
 gunicorn
+yt-dlp
+imageio-ffmpeg
